@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUD-API",
+    "\\CRUD-API\\CRUD-API",
+    "\\CRUD-API\\CRUD-API\\obj\\Debug",
+    "\\CRUD-API\\CRUD-API\\obj\\Debug\\netcoreapp3.1",
+    "\\CRUD-API\\CRUD-API\\obj\\Release",
+    "\\CRUD-API\\CRUD-API\\obj\\Release\\netcoreapp3.1",
+    "\\CRUD-API\\CRUD-API\\Properties"
+  ],
+  "SelectedNode": "\\CRUD-API\\CRUD-API\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}
